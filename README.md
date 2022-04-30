@@ -11,7 +11,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/images/erpnext-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/frappe/frappe/develop/.github/frappe-framework-logo.svg"></code>
 
+<br>
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepeshgarg007&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshgarg007&theme=chartreuse-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepeshgarg007&show_icons=true&theme=swift&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshgarg007&theme=swift" />
 </p>  
