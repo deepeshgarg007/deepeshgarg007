@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Deepesh<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Deepesh</h1>
 
 <h3 align="center">ERPNext Developer and Open-source Contributor</h3>
 
